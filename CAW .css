@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    display: inline;padding: 20px;
+    float: unset;
+    padding-top: 20px;
+    
+}
+
+li>a{
+    text-transform: uppercase;
+    text-decoration:none;
+    
+    
+    
+}
+
+li:hover{
+       background-color: cadetblue;
+       border-radius: 50px;
+}
+
+h3{
+    font-size: large;
+    background-color: darkgray;
+    
+    text-align: center;
+    width: auto;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+    
+}
+h4{
+    font-size: large;
+    background-color: darkgray;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+div{
+    margin:30px;
+    width:300px;
+    float:left;
+    padding:30px;
+}
+
+div>p{
+ text-align: left;
+}
+
+#big{
+    color: darkolivegreen;
+}
+
+h4{
+    
+    text-align: center;
+}
